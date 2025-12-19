@@ -79,3 +79,8 @@ switch ($conversionType) {
         echo json_encode(['error' => 'Unsupported conversion type']);
 }
 
+
+
+
+
+
